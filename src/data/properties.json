@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "Name":" green  villa",
+    "Type": "House",
+    "Price": "Rs.12000"
+  },
+  {
+  "id": 2,
+    "Name":" Beach villa",
+    "Type": "Villa",
+    "Price": "Rs.50000"
+  },
+  {
+  "id": 3,
+    "Name":"Mountain House",
+    "Type": "House",
+    "Price": "Rs.24000"
+  }
+]
