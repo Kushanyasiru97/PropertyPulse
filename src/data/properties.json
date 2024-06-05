@@ -1,19 +1,25 @@
 [{
     "id": 1,
+    "SellRent": 1,
     "Name":" green  villa",
     "Type": "House",
-    "Price": "Rs.12000"
+    "Price": "Rs.12000",
+    "Image": "prop-1"
   },
   {
-  "id": 2,
+    "id": 2,
+    "SellRent": 1,
     "Name":" Beach villa",
     "Type": "Villa",
-    "Price": "Rs.50000"
+    "Price": "Rs.50000",
+    "Image": "prop-2"
   },
   {
-  "id": 3,
+    "id": 3,
+    "SellRent": 2,
     "Name":"Mountain House",
     "Type": "House",
-    "Price": "Rs.24000"
+    "Price": "Rs.24000",
+    "Image": "prop-3"
   }
 ]

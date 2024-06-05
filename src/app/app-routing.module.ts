@@ -8,7 +8,8 @@ const routes: Routes = [
   {path:"", component:PropertyListComponent},
   {path:"add-property", component:AddPropertyComponent},
   {path:"rent-property", component:PropertyListComponent},
-  {path:"property-details/:Id", component:PropertyDetailComponent}
+  {path:"property-detail/:id", component:PropertyDetailComponent},
+  {path:"**", component:PropertyDetailComponent}
 ];
 
 @NgModule({
